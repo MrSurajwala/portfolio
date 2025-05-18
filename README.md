@@ -6,8 +6,7 @@
   <title>Hunan Surajwala | Portfolio</title>
   <link rel="stylesheet" href=""/>
   <style>
-
-    body {
+     body{
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
