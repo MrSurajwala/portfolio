@@ -60,7 +60,7 @@ footer {
   padding: 15px;
 }
 
-    </style>
+  </style>
 </head>
 <body>
   <header>
