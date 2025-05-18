@@ -5,6 +5,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Hunan Surajwala | Portfolio</title>
   <link rel="stylesheet" href="style.css"/>
+  <style>
+
+    body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #f9f5f0;
+}
+
+header {
+  background-color: #e0c097;
+  color: #222;
+  padding: 20px;
+  text-align: center;
+}
+
+header nav a {
+  margin: 0 15px;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #6b4f30;
+  border-bottom: 2px solid #e0c097;
+  padding-bottom: 5px;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #6b4f30;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #e0c097;
+  text-align: center;
+  padding: 15px;
+}
+
+    </style>
 </head>
 <body>
   <header>
